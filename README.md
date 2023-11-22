@@ -1,6 +1,6 @@
 # Crypto App
 
-_consuming api to jikan_
+_consuming api to coingecko_
 
 ### Tools
 * Expo Shares
